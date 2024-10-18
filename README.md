@@ -1,4 +1,4 @@
-<h1 align="center">UCSF ChimeraX Molecular Visualization</h1>
+<h1 align="center">UCSF ChimeraX Molecular VisualizationX</h1>
 <div align="center">
   <a href='https://chimerax.readthedocs.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/chimerax/badge/?version=latest' alt='Documentation Status' />
